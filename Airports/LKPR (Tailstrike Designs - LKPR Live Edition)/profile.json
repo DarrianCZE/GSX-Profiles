@@ -2,16 +2,16 @@
     "ProfileICAO": "LKPR",
     "Scenery": "Tailstrike Designs",
     "Creator": "DarrianCZE",
-    "Version": 1.1,
+    "Version": 1.2,
     "Configurations": [
         {
             "ConfigName": "Normal Operations",
             "Files": [
                 {
-                    "FileName": "lkpr-darriancze-gsxvdgs-lkprlive.ini"
+                    "FileName": "lkpr-24-darriancze-gsxvdgs-lkprlive.ini"
                 },
                 {
-                    "FileName": "lkpr-darriancze-lkprlive.py"
+                    "FileName": "lkpr-24-darriancze-lkprlive.py"
                 }
             ]
         },
@@ -19,15 +19,20 @@
             "ConfigName": "Winter Operations",
             "Files": [
                 {
-                    "FileName": "lkpr-darriancze-gsxvdgs-lkprlive-winter.ini"
+                    "FileName": "lkpr-24-darriancze-gsxvdgs-lkprlive-winter.ini"
                 },
                 {
-                    "FileName": "lkpr-darriancze-lkprlive-winter.py"
+                    "FileName": "lkpr-24-darriancze-lkprlive-winter.py"
                 }
             ]
         }
     ],
     "Changelog": [
+        {
+            "Version": 1.2,
+            "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/115",
+			"Date": "2026-01-16"
+        },
         {
             "Version": 1.1,
             "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/115",
