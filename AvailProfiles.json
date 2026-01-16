@@ -550,12 +550,12 @@
         "ProfileICAO": "LKPR",
         "Scenery": "Tailstrike Designs",
         "Creator": "DarrianCZE",
-        "Version": "1.1",
+        "Version": "1.2",
         "FileNames": [
-            "lkpr-darriancze-gsxvdgs-lkprlive-winter.ini",
-            "lkpr-darriancze-gsxvdgs-lkprlive.ini",
-            "lkpr-darriancze-lkprlive-winter.py",
-            "lkpr-darriancze-lkprlive.py"
+            "lkpr-24-darriancze-gsxvdgs-lkprlive-winter.ini",
+            "lkpr-24-darriancze-gsxvdgs-lkprlive.ini",
+            "lkpr-24-darriancze-lkprlive-winter.py",
+            "lkpr-24-darriancze-lkprlive.py"
         ]
     }
 ]
